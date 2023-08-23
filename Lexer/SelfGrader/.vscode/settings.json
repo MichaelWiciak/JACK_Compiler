@@ -1,0 +1,6 @@
+{
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.associations": {
+    "lexer.h": "c"
+  }
+}
